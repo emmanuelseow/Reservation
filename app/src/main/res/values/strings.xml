@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="title">Make a Reservation!</string>
+    <string name="name">Enter Your Name!</string>
+    <string name="pax">Size of Group!</string>
+    <string name="mobile">Enter Mobile Number!</string>
+    <string name="date">Choose Date of booking!</string>
+    <string name="time">Choose Time of booking!</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="nosmoke">Non-Smoking Area</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
